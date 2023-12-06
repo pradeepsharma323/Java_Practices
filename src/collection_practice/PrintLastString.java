@@ -39,7 +39,7 @@ public class PrintLastString {
                     "\nstr8\nstr9\nstr10\nstr11\nstr12\nstr13" +
                     "\nstr14\nstr15\nstr16\nstr17\nstr18\nstr19" +
                     "\nstr20\nstr21\nstr22\nstr23\nstr24\nstr25";
-            int n = 10;
+            int n = 2;
             printLast(s1, n);
         }
 }
